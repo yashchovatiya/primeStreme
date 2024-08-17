@@ -27,6 +27,3 @@ export const LOGO =
      { identifier: "spanish", name: "Spanish" },
    ];
 
-
-  //  export const OPENAI_KEY =
-  //    "sk-7bENJHJ010aQU5EwigHGeOtRDsEU0sF6xKiStxp9_pT3BlbkFJ6dJyl-mAGdFZrC12Ft0qDpKv2X3UxD1BBWCqzJMG8A";
